@@ -8,7 +8,7 @@ module.exports = {
   networks: {
     goerli: {
       url: "https://eth-mainnet.g.alchemy.com/v2/9BO-6vlsuL_hC3LiEM-kROp8W6l3KUxR",
-      account: ["d1b08f844c8229f8220f227e7d49706ab00c5bf271c2dd278979d9c765d82072"],
+      account: ["019280"],
     },
   },
 };
